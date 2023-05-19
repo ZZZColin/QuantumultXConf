@@ -1,14 +1,14 @@
-# > ChatGPT
+# ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
-# > ai.com
+# ai.com
 DOMAIN-SUFFIX,ai.com
-# > stripe.com
+# stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
-# > poe.com
+# poe.com
 DOMAIN-SUFFIX,poe.com
